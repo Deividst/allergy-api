@@ -1,0 +1,33 @@
+<START:alergia> Urticaria <END> has a variety of causes, which can involve contact with mites, food, medication, insect bites and more.
+<START:alergia> urticaria <END> has a variety of causes, which can involve contact with mites, food, medication, insect bites and more.
+Even climate change or stressful situations can interfere with the problem's emergence.
+It is usually characterized by <START:sintoma> red patches <END> and <START:sintoma> papules <END> that cause <START:sintoma> itching <END> and <START:sintoma> tingling <END>.
+In more severe cases, interference with heavier medications such as steroids may be necessary.
+<START:alergia> Rhinitis <END> is one of the most common respiratory allergies worldwide.
+It affects both children and adults and usually manifests itself at any time of year.
+However, in certain situations or climates, it can intensify and even evolve into asthma.
+Its symptoms are <START:sintoma> nasal obstruction <END> and  <START:sintoma> difficulty sleeping <END> and  <START:sintoma> fatigue <END>.
+Rhinitis is one of the most common respiratory allergies worldwide.
+One of its symptoms is <START:sintoma> sneezing <END> and <START:sintoma> runny nose <END>.
+<START:alergia> Food allergy <END> allergy can be quite serious if it is not diagnosed in time.
+At first, after eating a certain <START:alergia> food allergy <END> the person develops a <START:sintoma> rash <END> and <START:sintoma> itching <END> and  <START:sintoma> diarrhea <END>.
+Depending on the intensity, severe <START:sintoma> sore throat <END> is triggered. Hence that feeling that everything “is closed” and, <START:sintoma> without breathing <END> it can lead to death.
+The <START:alergia> foods <END> allergy that most cause this type of allergy are peanuts, nuts in general, eggs, cashews and seafood.
+Following her CT scan, the patient developed diffuse <START:alergia> urticaria <END> (over arms, chest, back, face), cough, and subjective SOB.
+experienced chills and <START:alergia> urticaria <END> after receiving an infusion of hematopoietic stem cells.
+Additionally, recipient antibodies against plasma proteins present in the component may cause allergic type reactions characterized by <START:alergia> urticaria <END>.
+<START:alergia> Urticarial <END> transfusion reactions are thought to be triggered by exposure to soluble substances antigens within the donor product that cause IgE mediated histamine release.
+The presence of one <START:alergia> urticarial <END> transfusion reaction does not predict future reactions.
+faint erythematous <START:alergia> urticarial <END> rash on her back, was itchy.
+An appointment for an allergy doctor has been made for you given the <START:sintoma> swelling <END> you had. Please keep the appointments listed below.
+patient given fosphenytoin with subsequent allergic reaction halfway through infusion with pruritis, <START:alergia> urticaria <END> , erythema to abdomen.
+He developed an <START:alergia> urticarial rash <END> 1 day after admission and received 1 dose of steroids with multiple doses of Benadryl.
+Pt has been noted to develop <START:alergia> urticaria <END>, wheezing, and hypotension in setting of viral or bacterial infections.
+ASA reaction is documented as <START:alergia> urticaria <END> /angioedema, but during desensitization she only experienced pruritis without other manifestations of hypersensitivity.
+Pheresis was complicated by mild <START:alergia> urticaria <END> controlled with prn benadryl but otherwise well tolerated and her calcium was repleted prn.
+<START:alergia> Urticaria <END> is a skin irritation characterized by reddened and slightly swollen lesions, such as welts, that appear on the skin and are very <START:sintoma> itchy <END>.
+The most common symptom of <START:alergia> urticaria <END> is <START:sintoma> itching <END> (also called itching), but lesions can cause a burning or burning sensation.
+The <START:sintoma> itching <END> caused by <START:alergia> urticaria <END> is usually very intense and disrupts the lives of patients, impairing their activities in various aspects, such as work and sleep.
+The diagnosis of <START:alergia> urticaria <END> and <START:alergia> angioedema <END> is made mainly by the detailed history of the disease and by the signs and symptoms that the patient presents.
+Treatment of <START:alergia> urticaria <END> is considered effective when the patient is completely free from the signs and symptoms of the disease.
+Even without discovering the cause, <START:alergia> urticaria <END> can be controlled in more than half of cases within six months to a year.
