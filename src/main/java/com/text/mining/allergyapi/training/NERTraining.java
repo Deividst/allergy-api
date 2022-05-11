@@ -1,4 +1,4 @@
-package com.text.mining.allergyapi.train;
+package com.text.mining.allergyapi.training;
 
 import opennlp.tools.namefind.*;
 import opennlp.tools.util.*;
@@ -10,17 +10,14 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.util.Collections;
 
-/**
- * NER Training in OpenNLP with Name Finder Training Java Example
- * @author www.tutorialkart.com
- */
+
 public class NERTraining {
 
     public static void main(String[] args) {
 
         InputStreamFactory in = null;
         try {
-            in = new MarkableFileInputStreamFactory(new File("src/main/resources/dictionary.txt"));
+            in = new MarkableFileInputStreamFactory(new File("src/main/resources/allergy_dictionary.txt"));
         } catch (FileNotFoundException e2) {
             e2.printStackTrace();
         }
@@ -47,9 +44,9 @@ public class NERTraining {
             e.printStackTrace();
         }
 
-        // saving the model to "ner-custom-model.bin" file
+        // saving the model to "ner-custom-allergy-model" file
         try {
-            File output = new File("src/main/resources/ner-custom-model.bin");
+            File output = new File("src/main/resources/ner-custom-allergy-model.bin");
             FileOutputStream outputStream = new FileOutputStream(output);
             nameFinderModel.serialize(outputStream);
         } catch (IOException e) {

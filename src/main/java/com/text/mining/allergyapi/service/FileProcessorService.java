@@ -4,8 +4,11 @@ import com.text.mining.allergyapi.amqp.Producer;
 import com.text.mining.allergyapi.dto.MessageQueueDto;
 import com.text.mining.allergyapi.dto.TextDataDto;
 import com.text.mining.allergyapi.util.FileUtils;
+import com.text.mining.allergyapi.util.LogUtils;
 import lombok.extern.log4j.Log4j;
 import org.apache.commons.lang.time.StopWatch;
+import org.springframework.security.core.Authentication;
+import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 
@@ -16,23 +19,23 @@ import java.io.IOException;
 public class FileProcessorService {
 
     private final Producer producer;
+    private final MedicalInstitutionService medicalInstitutionService;
 
-    public FileProcessorService(Producer producer) {
+    public FileProcessorService(Producer producer, MedicalInstitutionService medicalInstitutionService) {
         this.producer = producer;
+        this.medicalInstitutionService = medicalInstitutionService;
     }
 
-    public void process(MultipartFile file, String url, String token) throws IOException {
-        StopWatch stopWatch = new StopWatch();
-        stopWatch.start();
+    public void process(MultipartFile file) throws IOException {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         String inputText = FileUtils.readFile(file.getInputStream());
         this.producer.sendMessage("mining_queue", MessageQueueDto.builder()
                 .dataDto(TextDataDto.builder()
                         .text(inputText)
-                        .token(token)
-                        .url(url)
+                        .institution(medicalInstitutionService.findInstitutionByUserName(authentication.getName()))
                         .build())
                 .build());
-        log.info("FileProcessorService.process() | ExecutionTime: " + stopWatch.getTime());
+        log.info("FileProcessorService.process() | Execution Time: " + LogUtils.logExecutionTime());
     }
 
 }

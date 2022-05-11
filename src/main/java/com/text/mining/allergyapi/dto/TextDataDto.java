@@ -1,5 +1,6 @@
 package com.text.mining.allergyapi.dto;
 
+import com.text.mining.allergyapi.model.MedicalInstitution;
 import lombok.*;
 
 import java.io.Serializable;
@@ -12,7 +13,6 @@ import java.io.Serializable;
 public class TextDataDto implements Serializable {
 
     private String text;
-    private String token;
-    private String url;
+    private MedicalInstitution institution;
 
 }

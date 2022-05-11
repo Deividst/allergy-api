@@ -5,6 +5,8 @@ import com.text.mining.allergyapi.amqp.Producer;
 import com.text.mining.allergyapi.dto.MessageQueueDto;
 import com.text.mining.allergyapi.dto.TextDataDto;
 import com.text.mining.allergyapi.service.FileProcessorService;
+import com.text.mining.allergyapi.util.LogUtils;
+import lombok.extern.log4j.Log4j;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;
@@ -12,7 +14,11 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
+
+@Log4j
 @Controller
 @RequestMapping(path = "/v1/dataload")
 public class DataLoadController {
@@ -37,11 +43,10 @@ public class DataLoadController {
 
     @PostMapping("/uploadfile")
     @ResponseStatus(HttpStatus.OK)
-    public void upload(@RequestParam("file") MultipartFile file,
-                       @RequestParam("url") String url,
-                       @RequestParam("token") String token) {
+    public void upload(@RequestParam("file") MultipartFile file) {
+        log.info("DataLoadController.upload() | Execution Time: " + LogUtils.logExecutionTime());
         try {
-            this.fileProcessorService.process(file, url, token);
+            this.fileProcessorService.process(file);
         } catch (IOException e) {
             e.printStackTrace();
         }

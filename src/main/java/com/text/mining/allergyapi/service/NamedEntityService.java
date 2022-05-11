@@ -5,6 +5,7 @@ import com.text.mining.allergyapi.dto.MessageQueueDto;
 import com.text.mining.allergyapi.dto.ResultNameFinderDto;
 import com.text.mining.allergyapi.dto.WordDto;
 import com.text.mining.allergyapi.enums.WordType;
+import com.text.mining.allergyapi.util.LogUtils;
 import com.text.mining.allergyapi.util.NamedEntityUtils;
 import lombok.extern.log4j.Log4j;
 import org.apache.commons.lang.time.StopWatch;
@@ -28,6 +29,7 @@ public class NamedEntityService {
         try {
             String inputText = preprocessing(messageQueueDto.getDataDto().getText());
             String[] tokens = NamedEntityUtils.tokenizeInputText(inputText);
+
             ResultNameFinderDto result = NamedEntityUtils.findNames(tokens);
             prepareData(messageQueueDto, result, tokens);
             sendMessage(messageQueueDto);
@@ -40,10 +42,10 @@ public class NamedEntityService {
     private void prepareData(MessageQueueDto messageQueueDto, ResultNameFinderDto result, String[] tokens) {
         List<WordDto> words = new ArrayList<>();
         for (int i = 0; i < result.getSpans().length; i++) {
-            System.out.println("Span: " + result.getSpans()[i].toString());
-            System.out.println("Covered text is: " + tokens[result.getSpans()[i].getStart()]);
-            System.out.println("Probability is: " + result.getSpansProbability()[i]);
-            System.out.println("-------------------------------------------------------------------------------");
+            log.info("Span: " + result.getSpans()[i].toString());
+            log.info("Covered text is: " + tokens[result.getSpans()[i].getStart()]);
+            log.info("Probability is: " + result.getSpansProbability()[i]);
+            log.info("-------------------------------------------------------------------------------");
 
             WordDto wordDto = new WordDto();
             wordDto.setProbability(result.getSpansProbability()[i]);
@@ -56,8 +58,6 @@ public class NamedEntityService {
                 case "sintoma":
                     wordDto.setType(WordType.SYMPTOM);
                     break;
-                case "substancia":
-                    wordDto.setType(WordType.SUBSTANCE);
             }
             words.add(wordDto);
         }
@@ -65,16 +65,14 @@ public class NamedEntityService {
     }
 
     private String preprocessing(String inputText) {
-        StopWatch stopWatch = new StopWatch();
-        stopWatch.start();
         try {
-            inputText = NamedEntityUtils.CleanStopWords(inputText);
+            //inputText = NamedEntityUtils.CleanStopWords(inputText);
             inputText = NamedEntityUtils.cleanNumbersAndSpecialCharacters(inputText);
             return inputText;
         } catch (Exception e) {
             throw e;
         } finally {
-            log.info("NamedEntityService.preprocessing() | Final Time: " + stopWatch.getTime());
+            log.info("NamedEntityService.preprocessing() | Final Time: " + LogUtils.logExecutionTime());
         }
     }
 

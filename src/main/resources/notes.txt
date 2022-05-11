@@ -1,254 +1,405 @@
-Admission Date:  [**2133-3-12**]              Discharge Date:   [**2133-3-20**]
+Admission Date:  [**2129-5-29**]              Discharge Date:   [**2129-6-5**]
 
-Date of Birth:  [**2084-2-22**]             Sex:   F
+Date of Birth:  [**2064-8-12**]             Sex:   F
 
 Service: MEDICINE
 
 Allergies:
-Iodine / Latex / Sulfa (Sulfonamides) / Erythromycin Stearate /
-Morphine / Vistaril / Benadryl / Nifedipine / Ventolin Hfa /
-Penicillins
+Penicillins / aspirin / Strawberry / canned tuna
 
-Attending:[**First Name3 (LF) 1257**]
+Attending:[**First Name3 (LF) 2891**]
 Chief Complaint:
-Abdominal pain, nausea, vomiting
+Chest Pain
 
 Major Surgical or Invasive Procedure:
-Upper endoscopy
-UGI
-Gastric emptying study
+[**2129-5-30**] Pericardial Window and Pericardial Biopsy
 
 
 History of Present Illness:
-Ms. [**Known lastname 36038**] is a 49F with PMH of GERD s/p Nissen fundoplication x
-2 ([**2118**]), Factor V Leiden, HTN, depression, and chronic
-abdominal pain (since [**2118**]) presenting with recurrence of her
-abdominal pain, nausea and vomiting and inability to tolerate
-PO's. These symptoms had been well controlled over the last two
-years but recurred in late [**2132-12-23**]. She says that she is
-nauseous all day and vomits about 2-3 times/week. She localizes
-her pain to her epigastrium and says that it radiates throughout
-her entire abdomen. She says that it worsens slightly with
-eating, but identifies no other precipitating or palliating
-factors. She states that she has been regurgitating all her
-food, and that it comes up undigested.
+Ms. [**Known lastname 112022**] is a 64 yo female with a recent admission for
+posterior pericardial effusion ([**Date range (1) 49148**]) who presented with a
+5 day history of left-sided chest pain.
 
-For these symptoms, she went to her GI doctor Dr. [**Last Name (STitle) 77510**] on
-[**2133-1-27**], and UGI series and manometry were normal at that time,
-making mechanical obstruction unlikely. She was thought to have
-functional bowel disease. In the middle of [**Month (only) 404**], she had to
-be hospitalized at [**Hospital 1774**] Hospital for dehydration, and EGD at
-that time was normal. She had her Protonix increased to 40mg
-[**Hospital1 **], and was started on Buspirone and Pepcid. Her symptoms did
-not improve, and she continued to vomit with any PO intake. On
-[**3-12**], she called Dr. [**Last Name (STitle) **] and was told to present to the
-emergency room.
+Per recent cardiology clinic notes earlier this month, recent
+right heart cath did not show tamponade.   She was discharged
+from the hospital with the plan for monitoring with serial
+echos. Unfortunately due to allergic reactions to ASA and
+NSAIDs, anti-inflammatory agents could not be used, and she was
+started on sole colchicine therapy. Steroid therapy was deferred
+due to the concern for increased recurrence on lone colchicine.
 
-In the emergency room the patient's vitals were T 97.8 HR 88 BP
-136/75 RR 18 O2 sat 100. Labs in the ED were WBC 8.7/HCT
-39.8/Plt 341. Lytes were WNL. She received Zofran 4mg and
-Dilaudid 0.5 mg with no relief. She was admitted for workup of
-her abdominal pain, as well as pre-treatment for known contrast
-allergy before her scheduled inpatient CT scan. Given her
-possible iodine allergy, she was pre-medicated with Prednisone
-40mg PO 16, 8, and 2 hours prior to her exam. In addition,
-Cimetidine 300mg and Benadryl 50mg were given 1 hour prior to
-exam.
+She reported to the ED today with 5 days left-sided chest pain.
+She reports chest pain is getting worse relative to her prior
+admission on [**5-1**]. Her pain is pleuritic in nature with deep
+inspiration and also has a sensation that she cannot take a full
+breath. She reports mild nausea without emesis. Denies
+fever/chills/diarrhea. Denies headache.  Per ED examination, the
+patient appeared mildly uncomfortable and anxious with notable
+tachycardia and tachypnea. Faint crackles in the lower lung
+fields bilaterally.
+Initial vitals were T99.8 HR 131 BP 106/57 RR16 98% and orally
+reported pulsus of 10.  On EKG, she had sinus tachycardia at a
+rate of 130, with low voltage, and no STE's.  Bedside ultrasound
+at that time showed a pericardial effusion without evidence of
+tamponade.  Labs showed a leukocytosis of 11.4 without bandemia,
+and otherwise CMP showed a hemolyzed specimen without any other
+electrolytes imbalances.  CXR showed poor inflation of the lungs
+with enlarged heart borders consistent with her pericardial
+efussion.  Left lower lobe opacity suggestive of efussion and
+questionable hiatal hernia.
+Transferred to the CCU for further monitoring and probable
+pericardiocentesis in the AM. On transfer BP were 98/60 and
+patient was tachycardic in the 110's.
 
-Following her CT scan, the patient developed diffuse urticaria
-(over arms, chest, back, face), cough, and subjective SOB. She
-remained hemodynamically stable, afebrile, and non hypoxic. She
-was given IV solumedrol and famotidine and was transferred to
-the ICU. In the ICU, she was treated with IV solumedrol q6h and
-H2 blocker for her contrast allergy. She was also given ISS
-while on steroids. For her abdominal pain, she was treated
-symptomatically with zofran, dilaudid, and miralax. In addition,
-her PPI, pepcid, and buspirone were continued. During her ICU
-course, her vitals were 96.2 to 97.3, 76-109, 95-143/47-78,
-[**11-11**], and 93% on RA. Labs in the ICU were WBC 10.9/RBC 33.2/Plt
-311. Lytes were WNL except for glucose (181). LFTs and
-amylase/lipase were WNL.+
+In the ICU, patient is anxious about her procedure tomorrow
+requesting what time she will have her pericardiocentesis and
+who will be doing it.  She refuses to comply with history and
+physical exam, saying she is anxious and wants to sleep.
 
 
 Past Medical History:
-PMH:
-- GERD s/p Nissen fundoplication x 2
-- Chronic abdominal pain
-- Factor V Leiden: h/o UE clot, unclear if deep or superficial;
-(patient reports she received Lovenox and Coumadin as an
-inpatient but only continued Coumadin for a few weeks)
-- Depression
-- Hypertension
-- Colonic inertia
-- Insomnia
-- Asthma
+Pericardial effusion [**4-/2129**]
+DM2
+Dyslipidemia
+Hypothyroidism x13yrs
+Vocal cord polyp [**2114**], [**2115**]
+Chronic urticaria
 
 Social History:
-- Smoking: denies
-- EtOH: Denies
-- IVDU: Denies
-- Lives at home with her husband and three sons (26yo, 23yo,
-21yo).
-- Homemaker
-- Practicing Catholic
+Lives with her son, [**Name (NI) 112023**], in [**Hospital1 487**], MA (one drive hour
+away).  Originally from Morocoo. Primarily speaks French and
+Arabic; understands and speaks some English. Smoked 2ppd x 22y,
+quit in [**2116**]. No EtOH. No IVDA.
+
 
 Family History:
-- Mother with [**Name2 (NI) 499**] cancer in her 60's
-- Maternal aunt with breast cancer
-- Sister with diabetes
-- No FH of clots.
+No early MI, CMP, arryhthmias, pericardial effusions.
+
+
 
 Physical Exam:
-VS: 92/43 89 14-16 99
-Gen: Awake, alert, NAD
-HEENT: NCAT, EOMI, anicteric
-CV: RRR, no m/r/g
-Pulm: CTA B, no wheezes or crackles
-Abd: Soft, ND, tender in RLQ, no rebound, no guarding
-Ext: no LE edema, DP/PT 2+
+Admission PE:
+VS: BP=117/67, HR=127, RR=24, O2 sat=100%
+GENERAL: mildly uncomfortable, lying to her side. Oriented x3.
+Mood  is agitated anxious.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+Patient refused rest of phyiscal exam.
+
+Discharge PE:
+Vitals: 97.5, 124/78, 98, 18, 96 I/O:+1180/-900
+GENERAL: lying in bed in NAD, A&Ox3
+NECK: Supple with JVP of 9 cm.
+CARDIAC: regular, rate in low 100s, normal S1, S2. No m/r/g. No
+thrills, lifts. No S3 or S4.
+Chest: reccent surgical incision below L breast dry,
+non-errythematous, small amount of granulation tiusse, with
+palpable mass in breast tissue.
+LUNGS: respirations were unlabored, no accessory muscle use.
+CTAB, bibasilar rales stable
+ABDOMEN: Soft, NTND.
+EXTREMITIES: trace LE edema bilaterally
+NEURO: no gross deficits
 
 
 Pertinent Results:
-[**2133-3-12**] 06:30PM BLOOD WBC-8.7 RBC-4.76 Hgb-13.8 Hct-39.8 MCV-84
-MCH-29.1 MCHC-34.8 RDW-13.6 Plt Ct-341
-[**2133-3-13**] 07:10AM BLOOD WBC-5.9 RBC-4.21 Hgb-12.5 Hct-36.2 MCV-86
-MCH-29.7 MCHC-34.5 RDW-13.1 Plt Ct-323
-[**2133-3-14**] 04:01AM BLOOD WBC-10.9# RBC-3.85* Hgb-11.4* Hct-33.2*
-MCV-86 MCH-29.5 MCHC-34.2 RDW-13.3 Plt Ct-311
+ADMISSION LABS
+[**2129-5-29**] 12:25PM BLOOD WBC-11.4*# RBC-4.58 Hgb-13.5 Hct-40.7
+MCV-89 MCH-29.4 MCHC-33.1 RDW-13.2 Plt Ct-336
+[**2129-5-29**] 12:25PM BLOOD Neuts-79.7* Lymphs-14.3* Monos-5.5
+Eos-0.2 Baso-0.3
+[**2129-5-29**] 12:25PM BLOOD PT-12.0 PTT-28.3 INR(PT)-1.1
+[**2129-5-29**] 12:25PM BLOOD Glucose-136* UreaN-12 Creat-0.8 Na-135
+K-5.8* Cl-97 HCO3-25 AnGap-19
+[**2129-5-29**] 12:28PM BLOOD Lactate-1.9 K-4.0
 
-[**2133-3-12**] 06:30PM BLOOD Glucose-96 UreaN-10 Creat-0.7 Na-142
-K-4.4 Cl-106 HCO3-27 AnGap-13
-[**2133-3-13**] 07:10AM BLOOD Glucose-166* UreaN-10 Creat-0.7 Na-139
-K-5.2* Cl-105 HCO3-24 AnGap-15
-[**2133-3-14**] 04:01AM BLOOD Glucose-181* UreaN-7 Creat-0.6 Na-142
-K-3.5 Cl-108 HCO3-23 AnGap-15
+[**Hospital3 984**]:
+[**2129-5-30**] 12:45PM BLOOD VitB12-180*
+[**2129-5-30**] 12:45PM BLOOD %HbA1c-5.8 eAG-120
+[**2129-6-2**] 06:10AM BLOOD TSH-3.2
+[**2129-6-2**] 06:10AM BLOOD Free T4-1.3
+[**2129-6-4**] 05:40AM BLOOD CRP-47.1*
+[**2129-6-2**] 06:10AM BLOOD dsDNA-NEGATIVE
+[**2129-6-2**] 06:10AM BLOOD [**Doctor First Name **]-NEGATIVE
+[**2129-6-2**] 06:10AM BLOOD RheuFac-11
+[**2129-6-2**] 06:10AM BLOOD C3-182* C4-36
 
-[**2133-3-12**] 06:30PM BLOOD ALT-19 AST-19 AlkPhos-120* TotBili-0.5
-[**2133-3-14**] 04:01AM BLOOD ALT-16 AST-13 CK(CPK)-53 AlkPhos-91
-TotBili-0.4
+DISCHARGE LABS:
+[**2129-6-5**] 08:05AM BLOOD WBC-7.7 RBC-4.00* Hgb-11.6* Hct-35.9*
+MCV-90 MCH-29.0 MCHC-32.3 RDW-13.7 Plt Ct-442*
+[**2129-6-5**] 08:05AM BLOOD PT-11.7 PTT-29.4 INR(PT)-1.1
+[**2129-6-5**] 08:05AM BLOOD Glucose-99 UreaN-11 Creat-0.4 Na-140
+K-4.1 Cl-102 HCO3-27 AnGap-15
+[**2129-6-5**] 08:05AM BLOOD ALT-43* AST-27 LD(LDH)-151 AlkPhos-166*
+TotBili-0.3
+[**2129-6-5**] 08:05AM BLOOD Calcium-8.8 Phos-3.6 Mg-2.1
+=================================
+TEE: [**2129-5-30**]
+Pre-procedure:
+No spontaneous echo contrast is seen in the left atrial
+appendage.
+Overall left ventricular systolic function is normal (LVEF>55%).
+with normal free wall contractility.
+The ascending, transverse and descending thoracic aorta are
+normal in diameter and free of atherosclerotic plaque.
+The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion and no aortic stenosis or aortic
+regurgitation.
+The mitral valve appears structurally normal with trivial mitral
+regurgitation.
+There is a moderate sized pericardial effusion with a great deal
+of echo dense material, most likely clot around the RA and RV.
+The effusion itself measures from 1 to 2.5 cm in various
+locations, but the supposed clot measures up to 3.5 cm across.
 
-CT abdomen/pelvis ([**2133-3-13**]):
-IMPRESSION:
-1. No evidence of acute intra-abdominal pathology.
-2. Post-surgical changes related to fundoplication.
+Post-Procedure:
+There is a reduction in fluid anteriorly, but inferiorly and
+laterally there is little change. Moreover, the gelatinous
+material associated with the RV and RA is little changed.
+=================================
+TTE: [**2129-5-31**] Compared with the prior study (images reviewed) of
+[**2129-5-29**], the effusion appears similar to slightly smaller in
+size and may be slightly more echo dense and organized.  The
+effusion is echo dense, consistent with partial organization.
+Cannot exclude mild right ventricular compression apically.The
+pericardium may be thickened. There are no echocardiographic
+signs of tamponade.
+=================================
+Pleural fluid: [**2129-5-30**]
+PLEURAL ANALYSIS WBC RBC Polys Lymphs Monos Meso Macro Other
+[**2129-5-30**] 15:45    575* 3800* 25* 14* 0 14*1 46*2 1*3
+-SEVERAL REACTIVE FORMS NOTED
+-ACTIVATED FORMS AND FOAMY HISTIOCYTES NOTED
+-ATYPICAL CELLS, REFER TO CYTOLOGY
+PLEURAL CHEMISTRY TotProt Glucose LD(LDH) Amylase Albumin
+[**2129-5-30**] 15:45    4.6 119 169 18 3.3
+=================================
+Pericardial fluid: [**2129-5-30**]
+OTHER BODY FLUID ANALYSIS WBC RBC Polys Lymphs Monos
+[**2129-5-30**] 18:48    111* [**Numeric Identifier 265**]* 86*1 13* 1*
+OTHER BODY FLUID CHEMISTRY TotProt Glucose LD(LDH) Amylase
+Albumin
+[**2129-5-30**] 18:43    5.4 [**Telephone/Fax (1) 112024**] 26 3.4
+=================================
+Pericardial tissue: [**2129-5-30**], 3 specimens
+gram stain: no organisms, PMNs (0+, 1+, 2+ for each specimen)
+KOH: negative
+AFB: negative
+=================================
+Pericardial fluid cytology:
+NEGATIVE FOR MALIGNANT CELLS. Scattered mesothelial cells.
+Pleural fluid cytology:
+NEGATIVE FOR MALIGNANT CELLS. Reactive mesothelial cells,
+macrophages and lymphocytes
 
+Pathology:
+1.  Substance in pericardium (A):
+Fibrin, blood and inflammatory cells.
+2.  Pericardium:
+Pericardial tissue with fibrinous exudate, fibrosis, hemorrhage
+with hemosiderin-laden macrophages and acute and chronic
+inflammation with granulation tissue.
+=================================
+BREAST ULTRASOUND:
+FINDINGS: Limited son[**Name (NI) 493**] images were obtained of the left
+breast in the region of the patient's pain, which demonstrate no
+drainable fluid collection or mass.
+
+IMPRESSION:  Limited study demonstrates no fluid collection to
+suggest
+abscess.  If there is continued clinical concern for a palpable
+abnormality, followup with mammography and/or ultrasound is
+recommended in a dedicated breast imaging clinic.
+=================================
 
 Brief Hospital Course:
-This is a 49 year old woman who presented with chronic symptoms
-(since [**2132-12-23**]) of epigastric abdominal pain,
-persistent nausea, food regurgitation immediately after eating,
-and weight loss. She has history of severe constipation
-following her Nissen fundoplication that was attributed to
-colonic inertia. The differential diagnosis for her upper GI
-symptoms were esophageal obstruction, esophageal motility
-disorder, Zenker's diverticulum, a disease process related to
-her fundoplication (nerve damage or compression), gastroparesis,
-rumination syndrome, and psychiatric causes. She has had
-extensive workup in the past by GI for her symptoms, and thus
-far, all studies have been negative including EGD, UGI series,
-manometry,and CT abdomen. During this hospitalization, she had a
-repeat UGI series, which was normal, and EGD which was also
-normal. She had a gastric emptying study that showed delayed
-gastric emptying. She, however, was receiving Dilaudid before
-and during the study, which may have affected the results. Her
-symptoms of immediate vomiting after eating and nausea despite
-being NPO for a weak were inconsistent with gastroparesis.
-However, we treated her with IV and then PO Reglan as she may
-have significant GI motility disorder with severe constipation
-and the above mentioned upper GI symptoms. For her severe
-constipation, she was continued on a bowel regimen with Colace,
-Senna, MiraLax, and Dulcolax with no problems. Rumination
-syndrome seemed unlikely as she had 2 inconsistent features:
-persistent nausea and abdominal pain. However, she exhibited
-depressive syndrome and indifference to her GI illness. A
-psychiatric component may potentially aggravate her symptoms.
-She was discharged with GI follow up with Dr.[**First Name (STitle) **]. Total
-discharge time 35 minutes.
+64 year-old female with PMH of diabetes mellitus,
+hyperlipidemia, and hypothyroidism presenting with chest pain
+and enlargement of pericardial effusion.
 
-Of note she had allergic reaction with hives and subjective SOB
-after IV contrast administration for the CT abdomen on [**2133-3-13**].
-She was treated with IV Solu-Medrol in ED/ICU and then oral
-steroids with complete recovery.
+Active diagnoses:
+#Pericardial Effusion: Pt presented with pericardial effusion
+larger than past admission [**2129-5-1**].  Pericardiocentesis
+unsuccessful due to significant cell debris so pt taken for
+pericardial window [**5-30**] with pericardial biopsy and removal of
+1500cc of gelatinous fluid from the pericardial space.  Pt
+tolerated procedure well and remained hemodynamically stable in
+the CVICU.  Pt extubated on POD1, chest tube removed POD2 and
+transferred to the floor.
+
+No tamponade physiology during current or past admission.
+Etiology of effusion was unclear.  Differential included
+post-viral, infectious (including TB in setting of recent travel
+to [**Country 3400**] [**12/2128**], as well as parasitic infections), autoimmune,
+malignancy, hypothyroidism.  Pericardial and pleural fluid
+cytology negative.  Allergy consult was obtained did not feel
+that her history of urticaria would be contributing to such a
+presentation.  Rheumatology consulted but no obvious systemic
+rheumatologic condition.  Screening labs including [**Doctor First Name **], RF,
+anti-ds-DNA, TSH, complement levels WNL.  Pathology of
+pericardium and gelatinous pericardial fluid rather nonspecific
+showing fibrinous exudate, fibrosis, and acute and chronic
+inflammation.
+Pt was sent to the CCU for aspirin desensitization. She
+tolerated it well without any complications. She was sent home
+on ibuprofen 800mg TID and asa 81 mg daily.
+
+# L breast tenderness and redness: Pt developed L breast
+tenderness and redness at the inferior aspect of the left breast
+around the inframammary incision.  The surgical team evaluated
+the pt and believed the symptoms were likely due to manipulation
+during surgery.  The redness improved.
+
+# Sinus tachycardia: Pt runs in 100s per records, which
+continued during hospital course.
+
+Chronic diagnoses:
+#HLD: continue Crestor
+#DM: ISS transitioned to PO metformin.  Pt stable on regimen.
+#Hypothyroidism: continue levothyroxine 150mcg. TSH WNL.
+
+Transitional issues:
+-continue workup for pericardiac effusion
+-patient has been desensitized to NSAIDS including aspirin
+-patient has follow up with allergy, rheumatology and cardiology
+with cardiac MR scheduled prior to cards follow up.
+-if mass in left breast does not resolve will need proper
+diagnostic mamography.
 
 Medications on Admission:
-Home meds:
-Protonix 40 mg PO BID
-Pepcid 20 mg PO qHS
-BuSpar 15mg PO qHS
-Ambien 5mg PO qHS
-Prozac 20mg PO qAM
-Trileptal 150mg PO qHS
-Miralax 6 capfuls qHS
-Diovan 160mg PO Daily
-Advair 500/50 qAM
-Singulair qAM
-Atrovent PRN SOB
+1. Colchicine 0.6 mg PO BID
+2. Crestor 10 mg PO DAILY
+3. Synthroid 150 mcg PO DAILY
+4. ZYRtec *NF* 10 mg Oral prn seasonal allergies
+5. MetFORMIN (Glucophage) 500 mg PO BID
 
-Meds on transfer:
-Heparin 5000U TID
-Zolpidem Tartrate 5 mg PO qhs
-Fluoxetine 20 mg po daily
-Oxcarbazepine 150 mg po qhs
-PEG 17 g po daily
-Valsartan 160 mg po daily
-Pantoprazole 40 mg po bid
-Famotidine 20 mg [**Hospital1 **]
-Advair Diskus 1 inh [**Hospital1 **]
-Montelukast sodium 10 mg po daily
-Buspirone 15 mg po qhs
-IV solumedrol 125 mg IV q6h
-Sarna Lotion 1 ppl tp qid
-Ipratropium nebs 1 nb q6h
-Insulin SC per ISS
+
+Discharge Medications:
+1. Colchicine 0.6 mg PO BID
+2. Crestor 10 mg PO DAILY
+3. MetFORMIN (Glucophage) 500 mg PO BID
+4. Synthroid 150 mcg PO DAILY
+5. ZYRtec *NF* 10 mg Oral prn seasonal allergies
+6. cane *NF* Large Base Quad Cane  Miscellaneous 1
+RX *cane   Please use for ambulation 1 Large based quad cane
+Disp #*1 Unit Refills:*0
+RX *cane   Please use for ambulation 1 Large-based quad cane
+Disp #*1 Unit Refills:*0
+7. Aspirin 81 mg PO DAILY
+RX *Adult Low Dose Aspirin 81 mg 1 Tablet(s) by mouth daily Disp
+#*30 Tablet Refills:*5
+8. Docusate Sodium 100 mg PO BID
+RX *docusate sodium 100 mg 1 Capsule(s) by mouth twice a day
+Disp #*30 Tablet Refills:*0
+9. Ibuprofen 800 mg PO Q8H Duration: 2 Weeks
+RX *ibuprofen 800 mg 1 Tablet(s) by mouth three times a day Disp
+#*42 Tablet Refills:*0
+10. Oxycodone-Acetaminophen (5mg-325mg) 1 TAB PO Q6H:PRN pain
+RX *Percocet 5 mg-325 mg 1 Tablet(s) by mouth three times a day
+Disp #*33 Tablet Refills:*0
+11. Omeprazole 40 mg PO DAILY
+RX *omeprazole 40 mg 1 Capsule(s) by mouth daily Disp #*14
+Tablet Refills:*0
+12. Outpatient Lab Work
+please have Liver function tests with albumin and bilirubin as
+well as well as creatinine and potassium checked in 1 week.
+Results faxed to Dr. [**First Name (STitle) **] at ([**Telephone/Fax (1) 5013**]
 
 
 Discharge Disposition:
 Home With Service
 
 Facility:
-[**Last Name (LF) 486**], [**First Name3 (LF) 487**]
+All Care VNA of Greater [**Location (un) **]
 
 Discharge Diagnosis:
 Primary Diagnosis:
-Primary GI motility syndrome:
-Gastroparesis
-Constipation from colonic inertia
-.
+Pericardial Effusion
+
 Secondary Diagnoses:
-Factor V Leiden deficiency
-Hypertension
-Gastroesophageal reflux disease
-Asthma
-Depression
+Hyperlipidemia
+Hypothyroidism
+Diabetes Mellitus Type II (Non-Insulin Dependent)
 
 
 Discharge Condition:
-Mental Status: Clear and coherent
-Level of Consciousness: Alert and interactive
-Activity Status: Ambulatory - Independent
+Clear and cohent.
+Alert and interactive.
+Ambulatory - requires minimus assistance.
 
 
 Discharge Instructions:
-You were admitted to [**Hospital1 18**] with abdominal pain, nausea, and
-vomiting.  You had a CT scan in the emergency department and
-developed an allergic reaction to IV contrast.  You were
-hospitalized in the ICU for monitoring and received IV steroids.
- You were given anti-emetics for your nausea and pain
-medications for your abdominal pain.  You were also found to be
-constipated and were started on a bowel regimen. You had a
-normal endoscopy and barium study. A gastric emptying study
-showed slow stomach. However, you were taking Dilaudid which may
-interfere with the study results. Please take Reglan 30 minutes
-before each meal to help your slow stomach. Keep laxatives. We
-found you to have depression. Please see your psychiatric doctor
-as depression may worsen or significantly contributes to your
-symptoms of nausea and vomiting. Please follow up with Dr.
-[**Last Name (STitle) **].
+Dear Ms. [**Known lastname 112022**],
+
+It was a pleasure taking care of you at [**Hospital1 **].
+You came into the hospital because of chest pain due to the
+fluid around your heart (called a pericardial effusion). You had
+to have surgery to remove some of this fluid.  The cause of this
+fluid is still not clear, but tests have been sent off to try to
+find the cause.  Your heart doctor will follow-up on these
+results and share them with you.  You were seen by our
+allergists and our rheumatologists to help diagnose this
+mystery.  It was felt that you would benefit from several weeks
+of ibuprofen treatment and given your history of allergy were
+sent to the intensive care unit for a desensitization procedure.
+
+
+Please have your blood work checked in 1 week, a prescription
+has been provided for you.
+
+Several medications have been changed please refer to your
+medication list for the details of your medications.
+
+Please make sure to keep your follow up appointments listed
+below.  Also you will need to have a follow up MRI of your
+heart, please call [**Telephone/Fax (1) 9559**] 2 weeks prior to your
+appointment with Dr. [**Last Name (STitle) 112025**] on [**2129-6-22**] to ensure it has been
+scheduled.
+
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming. Look at your incisions daily. Please
+NO lotions, cream, powder, or ointments to incisions.
+Urticaria is a skin irritation characterized by reddened and slightly swollen lesions, such as welts, that appear on the skin and are very itchy.
+It is usually characterized by red patches and papules that cause itching tingling.
+
 
 Followup Instructions:
-Provider: [**Name10 (NameIs) 1948**] [**Last Name (NamePattern4) 1949**], MD Phone:[**Telephone/Fax (1) 463**]
-Date/Time:[**2133-4-7**] 2:40
-The most common symptom of urticaria is itching (also called itching), but lesions can cause a burning or burning sensation.
+Name: [**Last Name (un) **]-[**Doctor Last Name **],MAYSABEL
+Location: [**Hospital3 **]HEALTHCARE GROUP
+Address: [**Location (un) 80096**], [**Apartment Address(1) 19251**], [**Location (un) **],[**Numeric Identifier 10768**]
+Phone: [**Telephone/Fax (1) 82482**]
+When: Wednesday, [**2129-6-15**]:30 PM
+*It is advised that you are also followed for wound care. Please
+discuss this with your PCP.
+
+Cardiac Surgery: Dr. [**First Name (STitle) **] Tuesday, [**2129-6-21**], 1:00pm
+[**Hospital **] Medical Office Building
+[**Hospital Unit Name 112026**]
+
+Department: ECHO LAB
+When: WEDNESDAY [**2129-6-22**] at 1 PM
+With: ECHOCARDIOGRAM [**Telephone/Fax (1) 62**]
+Building: GZ [**Hospital Ward Name **] BUILDING (FELBEERG/[**Hospital Ward Name **] COMPLEX) [**Location (un) 1951**]
+Campus: EAST    Best Parking: Main Garage
+
+Department: CARDIAC SERVICES
+When: WEDNESDAY [**2129-6-22**] at 3:00 PM
+With: [**Name6 (MD) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 62**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: DIV OF ALLERGY AND INFLAM
+When: WEDNESDAY [**2129-6-22**] at 11:15 AM
+With: [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 9316**]
+Building: One [**Location (un) **] Place ([**Location (un) **], MA) [**Location (un) 895**]
+Campus: OFF CAMPUS    Best Parking: Parking on Site
+
+Department: RHEUMATOLOGY
+When: THURSDAY [**2129-6-16**] at 3:30 PM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 34216**], MD [**Telephone/Fax (1) 2226**]
+Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) 861**]
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
 
 
 

@@ -90,11 +90,12 @@ public class NamedEntityUtils {
 
     public static ResultNameFinderDto findNames(String[] tokens) throws IOException {
         StopWatch stopWatch = new StopWatch();
+        NameFinderME nameFinder = null;
         try {
             stopWatch.start();
-            InputStream modelIn = new FileInputStream("src/main/resources/ner-custom-model.bin");
+            InputStream modelIn = new FileInputStream("src/main/resources/ner-custom-allergy-model.bin");
             TokenNameFinderModel model = new TokenNameFinderModel(modelIn);
-            NameFinderME nameFinder = new NameFinderME(model);
+            nameFinder = new NameFinderME(model);
             Span[] spans = nameFinder.find(tokens);
 
             return ResultNameFinderDto.builder()
@@ -106,6 +107,7 @@ public class NamedEntityUtils {
             e.printStackTrace();
             throw e;
         } finally {
+            if (nameFinder != null) nameFinder.clearAdaptiveData();
             log.info("NamedEntityUtils.findNames() | ExecutionTime: " + stopWatch.getTime());
         }
     }
@@ -131,7 +133,7 @@ public class NamedEntityUtils {
             String tokens[] = tokenizer.tokenize(text);
 
             //2. find names
-            modelIn = new FileInputStream("src/main/resources/ner-custom-model.bin");
+            modelIn = new FileInputStream("src/main/resources/ner-custom-allergy-model.bin");
             TokenNameFinderModel model = new TokenNameFinderModel(modelIn);
             NameFinderME nameFinder = new NameFinderME(model);
 
