@@ -72,9 +72,7 @@ public class NamedEntityUtils {
     }
 
     public static String[] tokenizeInputText(String inputText) throws IOException {
-        StopWatch stopWatch = new StopWatch();
         try {
-            stopWatch.start();
             InputStream modelInToken = new FileInputStream("src/main/resources/en-token.bin");
             TokenizerModel modelToken = new TokenizerModel(modelInToken);
             Tokenizer tokenizer = new TokenizerME(modelToken);
@@ -83,17 +81,13 @@ public class NamedEntityUtils {
         } catch (IOException e) {
             e.printStackTrace();
             throw e;
-        }finally {
-            log.info("NamedEntityUtils.tokenizeInputText() | ExecutionTime: " + stopWatch.getTime());
         }
     }
 
-    public static ResultNameFinderDto findNames(String[] tokens) throws IOException {
-        StopWatch stopWatch = new StopWatch();
+    public static ResultNameFinderDto findNames(String[] tokens, String fileName) throws IOException {
         NameFinderME nameFinder = null;
         try {
-            stopWatch.start();
-            InputStream modelIn = new FileInputStream("src/main/resources/ner-custom-allergy-model.bin");
+            InputStream modelIn = new FileInputStream("src/main/resources/ner-custom-allergy-" + fileName +"-model.bin");
             TokenNameFinderModel model = new TokenNameFinderModel(modelIn);
             nameFinder = new NameFinderME(model);
             Span[] spans = nameFinder.find(tokens);
@@ -108,63 +102,6 @@ public class NamedEntityUtils {
             throw e;
         } finally {
             if (nameFinder != null) nameFinder.clearAdaptiveData();
-            log.info("NamedEntityUtils.findNames() | ExecutionTime: " + stopWatch.getTime());
         }
     }
-
-    public static void main(String[] args) {
-
-        InputStream modelInToken = null;
-        InputStream modelIn = null;
-
-        try {
-
-            Path path = Paths.get("src/main/resources/notes.txt");
-            List<String> lines = Files.readAllLines(path);
-            String text = String.join("\n", lines);
-
-            text = NamedEntityUtils.CleanStopWords(text);
-            text = text.replaceAll("[^A-Za-z]", " ");
-
-            //1. convert sentence into tokens
-            modelInToken = new FileInputStream("src/main/resources/en-token.bin");
-            TokenizerModel modelToken = new TokenizerModel(modelInToken);
-            Tokenizer tokenizer = new TokenizerME(modelToken);
-            String tokens[] = tokenizer.tokenize(text);
-
-            //2. find names
-            modelIn = new FileInputStream("src/main/resources/ner-custom-allergy-model.bin");
-            TokenNameFinderModel model = new TokenNameFinderModel(modelIn);
-            NameFinderME nameFinder = new NameFinderME(model);
-
-            Span nameSpans[] = nameFinder.find(tokens);
-
-            //find probabilities for names
-            double[] spanProbs = nameFinder.probs(nameSpans);
-
-            //3. print names
-            for (int i = 0; i < nameSpans.length; i++) {
-                System.out.println("Span: " + nameSpans[i].toString());
-                System.out.println("Covered text is: " + tokens[nameSpans[i].getStart()]);
-                System.out.println("Probability is: " + spanProbs[i]);
-                System.out.println("-------------------------------------------------------------------------------");
-            }
-            //Span: [0..2) person
-            //Covered text is: Jack London
-            //Probability is: 0.7081556539712883
-        } catch (Exception ex) {
-        } finally {
-            try {
-                if (modelInToken != null) modelInToken.close();
-            } catch (IOException e) {
-            }
-            ;
-            try {
-                if (modelIn != null) modelIn.close();
-            } catch (IOException e) {
-            }
-            ;
-        }
-    }
-
 }

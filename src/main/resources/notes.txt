@@ -1,405 +1,402 @@
-Admission Date:  [**2129-5-29**]              Discharge Date:   [**2129-6-5**]
+Admission Date:  [**2166-12-1**]              Discharge Date:   [**2166-12-16**]
 
-Date of Birth:  [**2064-8-12**]             Sex:   F
+Date of Birth:  [**2132-4-17**]             Sex:   F
 
 Service: MEDICINE
 
 Allergies:
-Penicillins / aspirin / Strawberry / canned tuna
+Allopurinol / Lisinopril
 
-Attending:[**First Name3 (LF) 2891**]
+Attending:[**First Name3 (LF) 783**]
 Chief Complaint:
-Chest Pain
+abdominal pain
 
 Major Surgical or Invasive Procedure:
-[**2129-5-30**] Pericardial Window and Pericardial Biopsy
+1. Liver biopsy
 
 
 History of Present Illness:
-Ms. [**Known lastname 112022**] is a 64 yo female with a recent admission for
-posterior pericardial effusion ([**Date range (1) 49148**]) who presented with a
-5 day history of left-sided chest pain.
+34 year old woman with history of type I diabetes and
+hyperlididemia who reports feeling lethargic over the last week
+and a half.  Her symptoms initially began with generalized
+pruritis in the setting of having recently started allopurinol
+(she was told to stop it soon after initiation for a rising
+creatinine).  Approximately 5 days prior to admission she
+developed nausea, diarrhea and abdominal pain.  She saw her
+nephrologist on [**11-27**] and was diagnosed with viral
+gastroenteritis.  She was asked to hold her zestril and lasix
+until she felt she was improving.  However, over the weekend she
+felt that her face/eyes were swelling and had difficulty
+breathing as well as decreased energy.  She reports fevers at
+home to 100.8F and abdominal pain, flank pain and leg pain.  She
+went to the clinic on [**12-1**] and was sent to the ED.
+No new exposures, no sick contacts.  Denies chest pain.  Had flu
+vaccine [**10-9**].
 
-Per recent cardiology clinic notes earlier this month, recent
-right heart cath did not show tamponade.   She was discharged
-from the hospital with the plan for monitoring with serial
-echos. Unfortunately due to allergic reactions to ASA and
-NSAIDs, anti-inflammatory agents could not be used, and she was
-started on sole colchicine therapy. Steroid therapy was deferred
-due to the concern for increased recurrence on lone colchicine.
+In ED was found to be in acute renal failure and to have a
+transaminitis.  She received benedryl, albuterol, and IVF.  She
+was found to be hyperkalemic with a K=6.6.  Admitted to the
+MICU.  There peripheral access was unobtainable and central
+access was attempted without success.
 
-She reported to the ED today with 5 days left-sided chest pain.
-She reports chest pain is getting worse relative to her prior
-admission on [**5-1**]. Her pain is pleuritic in nature with deep
-inspiration and also has a sensation that she cannot take a full
-breath. She reports mild nausea without emesis. Denies
-fever/chills/diarrhea. Denies headache.  Per ED examination, the
-patient appeared mildly uncomfortable and anxious with notable
-tachycardia and tachypnea. Faint crackles in the lower lung
-fields bilaterally.
-Initial vitals were T99.8 HR 131 BP 106/57 RR16 98% and orally
-reported pulsus of 10.  On EKG, she had sinus tachycardia at a
-rate of 130, with low voltage, and no STE's.  Bedside ultrasound
-at that time showed a pericardial effusion without evidence of
-tamponade.  Labs showed a leukocytosis of 11.4 without bandemia,
-and otherwise CMP showed a hemolyzed specimen without any other
-electrolytes imbalances.  CXR showed poor inflation of the lungs
-with enlarged heart borders consistent with her pericardial
-efussion.  Left lower lobe opacity suggestive of efussion and
-questionable hiatal hernia.
-Transferred to the CCU for further monitoring and probable
-pericardiocentesis in the AM. On transfer BP were 98/60 and
-patient was tachycardic in the 110's.
+Called out the following day.
 
-In the ICU, patient is anxious about her procedure tomorrow
-requesting what time she will have her pericardiocentesis and
-who will be doing it.  She refuses to comply with history and
-physical exam, saying she is anxious and wants to sleep.
+ROS: No recent travel. No pets at home. Reports taking naproxyn
+only intermittently and never more than once/day. No herbal
+supplements. No mushrooms or other exotic foods. No BRBPR. No
+melena. Reports taking dicloxacillin approximately 1 month ago
+for a right eye surgery. No adverse event to this medication.
 
+Lab Hx: Transaminases had been normal until [**8-9**].
 
 Past Medical History:
-Pericardial effusion [**4-/2129**]
-DM2
-Dyslipidemia
-Hypothyroidism x13yrs
-Vocal cord polyp [**2114**], [**2115**]
-Chronic urticaria
+Diabetes Mellitus Type I -retinopathy, neuropathy, nephropathy
+Hypertension
+Hyperlipidemia
+Asthma
+Gout
+Anemia
+s/p chole [**10-7**]
+Right eye retinal detachment
+h/o pyelonephritis
+h/o thalesemia
+b/l cataracts surgery
 
 Social History:
-Lives with her son, [**Name (NI) 112023**], in [**Hospital1 487**], MA (one drive hour
-away).  Originally from Morocoo. Primarily speaks French and
-Arabic; understands and speaks some English. Smoked 2ppd x 22y,
-quit in [**2116**]. No EtOH. No IVDA.
-
+Denies tobacco, ETOH or IVDU
+lives at home and most recently stayed at sister's place
+6 siblings.
+worked as computer programmer previously, but now on disability
+Originally from West Indies and moved to the United States at
+age 9. No recent travel.
 
 Family History:
-No early MI, CMP, arryhthmias, pericardial effusions.
-
-
+DM, HTN
 
 Physical Exam:
-Admission PE:
-VS: BP=117/67, HR=127, RR=24, O2 sat=100%
-GENERAL: mildly uncomfortable, lying to her side. Oriented x3.
-Mood  is agitated anxious.
-HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
-pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
-
-Patient refused rest of phyiscal exam.
-
-Discharge PE:
-Vitals: 97.5, 124/78, 98, 18, 96 I/O:+1180/-900
-GENERAL: lying in bed in NAD, A&Ox3
-NECK: Supple with JVP of 9 cm.
-CARDIAC: regular, rate in low 100s, normal S1, S2. No m/r/g. No
-thrills, lifts. No S3 or S4.
-Chest: reccent surgical incision below L breast dry,
-non-errythematous, small amount of granulation tiusse, with
-palpable mass in breast tissue.
-LUNGS: respirations were unlabored, no accessory muscle use.
-CTAB, bibasilar rales stable
-ABDOMEN: Soft, NTND.
-EXTREMITIES: trace LE edema bilaterally
-NEURO: no gross deficits
+On admission ([**12-1**])
+T 97.8  BP 118/68   HR 82  RR 18  O2Sat 97%RA
+Gen: alert, oriented.  Resting comfortably in bed.
+HEENT: NC/AT, EOMI, puffy lids, neck and face.  Able to stick
+out tongue.
+Neck: supple.
+CV: rrr, no mrg
+Lungs: clear
+Abd: soft, diffusely tender, +BS, no rebound, guarding
+Ext: 1+ LE edema, hand edema
+Back: L>R CVAT
+Neuro: A&O x 3. Skin warm/dry
+**
+On transfer ([**12-2**])
+Tm/Tc 101.7  HR 97-122 (108)  BP 103-154/42-61  RR 21-28  O2Sat
+94-100%3L NC
+I/O 5950/2720 +3230
+Gen: tired appearing, obese african american woman, pleasant,
+alert and oriented x3.  Feverish. c/o right sided abdominal pain
+and lower extremity and back pain.
+HEENT: Periorbital and labial edema, sclera injected, tongue not
+protuberant; bullous lesions on lips; no mucosal lesions.
+CV: Regular, no mrg
+Lungs: clear on anterior exam
+Abd: soft, obese, diffusely tender, no rebound, no guarding
+Ext: diffusely tender LE, trace edema.
+Neuro: non focal.
+skin: no urticaria; dry scaling excoriations
 
 
 Pertinent Results:
-ADMISSION LABS
-[**2129-5-29**] 12:25PM BLOOD WBC-11.4*# RBC-4.58 Hgb-13.5 Hct-40.7
-MCV-89 MCH-29.4 MCHC-33.1 RDW-13.2 Plt Ct-336
-[**2129-5-29**] 12:25PM BLOOD Neuts-79.7* Lymphs-14.3* Monos-5.5
-Eos-0.2 Baso-0.3
-[**2129-5-29**] 12:25PM BLOOD PT-12.0 PTT-28.3 INR(PT)-1.1
-[**2129-5-29**] 12:25PM BLOOD Glucose-136* UreaN-12 Creat-0.8 Na-135
-K-5.8* Cl-97 HCO3-25 AnGap-19
-[**2129-5-29**] 12:28PM BLOOD Lactate-1.9 K-4.0
+CBC
+[**2166-12-1**] 01:40PM   WBC-12.4*# RBC-3.94* HGB-8.7* HCT-28.9*
+MCV-73* MCH-22.2* MCHC-30.2* RDW-17.7*
+[**2166-12-1**] 01:40PM   NEUTS-60 BANDS-11* LYMPHS-13* MONOS-6 EOS-5*
+BASOS-0 ATYPS-5* METAS-0 MYELOS-0
+[**2166-12-1**] 01:40PM   HYPOCHROM-3+ ANISOCYT-1+ POIKILOCY-1+
+MACROCYT-NORMAL MICROCYT-3+ POLYCHROM-1+ TARGET-OCCASIONAL
+BURR-OCCASIONAL STIPPLED-OCCASIONAL FRAGMENT-OCCASIONAL
+[**2166-12-1**] 01:40PM   PLT COUNT-386
 
-[**Hospital3 984**]:
-[**2129-5-30**] 12:45PM BLOOD VitB12-180*
-[**2129-5-30**] 12:45PM BLOOD %HbA1c-5.8 eAG-120
-[**2129-6-2**] 06:10AM BLOOD TSH-3.2
-[**2129-6-2**] 06:10AM BLOOD Free T4-1.3
-[**2129-6-4**] 05:40AM BLOOD CRP-47.1*
-[**2129-6-2**] 06:10AM BLOOD dsDNA-NEGATIVE
-[**2129-6-2**] 06:10AM BLOOD [**Doctor First Name **]-NEGATIVE
-[**2129-6-2**] 06:10AM BLOOD RheuFac-11
-[**2129-6-2**] 06:10AM BLOOD C3-182* C4-36
+Chemistries
+[**2166-12-1**] 01:40PM   GLUCOSE-235* UREA N-90* CREAT-3.1*#
+SODIUM-128* POTASSIUM-8.0* CHLORIDE-100 TOTAL CO2-13* ANION
+GAP-23*
+[**2166-12-1**] 01:40PM   TOT PROT-8.0 CALCIUM-8.9 PHOSPHATE-3.7
+MAGNESIUM-2.2
 
-DISCHARGE LABS:
-[**2129-6-5**] 08:05AM BLOOD WBC-7.7 RBC-4.00* Hgb-11.6* Hct-35.9*
-MCV-90 MCH-29.0 MCHC-32.3 RDW-13.7 Plt Ct-442*
-[**2129-6-5**] 08:05AM BLOOD PT-11.7 PTT-29.4 INR(PT)-1.1
-[**2129-6-5**] 08:05AM BLOOD Glucose-99 UreaN-11 Creat-0.4 Na-140
-K-4.1 Cl-102 HCO3-27 AnGap-15
-[**2129-6-5**] 08:05AM BLOOD ALT-43* AST-27 LD(LDH)-151 AlkPhos-166*
-TotBili-0.3
-[**2129-6-5**] 08:05AM BLOOD Calcium-8.8 Phos-3.6 Mg-2.1
-=================================
-TEE: [**2129-5-30**]
-Pre-procedure:
-No spontaneous echo contrast is seen in the left atrial
-appendage.
-Overall left ventricular systolic function is normal (LVEF>55%).
-with normal free wall contractility.
-The ascending, transverse and descending thoracic aorta are
-normal in diameter and free of atherosclerotic plaque.
-The aortic valve leaflets (3) appear structurally normal with
-good leaflet excursion and no aortic stenosis or aortic
-regurgitation.
-The mitral valve appears structurally normal with trivial mitral
-regurgitation.
-There is a moderate sized pericardial effusion with a great deal
-of echo dense material, most likely clot around the RA and RV.
-The effusion itself measures from 1 to 2.5 cm in various
-locations, but the supposed clot measures up to 3.5 cm across.
+Potassium
+[**2166-12-1**] 01:40PM   POTASSIUM-8.0* hemolyzed
+[**2166-12-1**] 04:18PM   K+-6.5*
+[**2166-12-1**] 08:10PM   POTASSIUM-6.6*
+[**2166-12-1**] 09:59PM   K+-6.0*
 
-Post-Procedure:
-There is a reduction in fluid anteriorly, but inferiorly and
-laterally there is little change. Moreover, the gelatinous
-material associated with the RV and RA is little changed.
-=================================
-TTE: [**2129-5-31**] Compared with the prior study (images reviewed) of
-[**2129-5-29**], the effusion appears similar to slightly smaller in
-size and may be slightly more echo dense and organized.  The
-effusion is echo dense, consistent with partial organization.
-Cannot exclude mild right ventricular compression apically.The
-pericardium may be thickened. There are no echocardiographic
-signs of tamponade.
-=================================
-Pleural fluid: [**2129-5-30**]
-PLEURAL ANALYSIS WBC RBC Polys Lymphs Monos Meso Macro Other
-[**2129-5-30**] 15:45    575* 3800* 25* 14* 0 14*1 46*2 1*3
--SEVERAL REACTIVE FORMS NOTED
--ACTIVATED FORMS AND FOAMY HISTIOCYTES NOTED
--ATYPICAL CELLS, REFER TO CYTOLOGY
-PLEURAL CHEMISTRY TotProt Glucose LD(LDH) Amylase Albumin
-[**2129-5-30**] 15:45    4.6 119 169 18 3.3
-=================================
-Pericardial fluid: [**2129-5-30**]
-OTHER BODY FLUID ANALYSIS WBC RBC Polys Lymphs Monos
-[**2129-5-30**] 18:48    111* [**Numeric Identifier 265**]* 86*1 13* 1*
-OTHER BODY FLUID CHEMISTRY TotProt Glucose LD(LDH) Amylase
-Albumin
-[**2129-5-30**] 18:43    5.4 [**Telephone/Fax (1) 112024**] 26 3.4
-=================================
-Pericardial tissue: [**2129-5-30**], 3 specimens
-gram stain: no organisms, PMNs (0+, 1+, 2+ for each specimen)
-KOH: negative
-AFB: negative
-=================================
-Pericardial fluid cytology:
-NEGATIVE FOR MALIGNANT CELLS. Scattered mesothelial cells.
-Pleural fluid cytology:
-NEGATIVE FOR MALIGNANT CELLS. Reactive mesothelial cells,
-macrophages and lymphocytes
+LFTs
+[**2166-12-1**] 01:40PM   ALT(SGPT)-1293* AST(SGOT)-1206* ALK PHOS-584*
+TOT BILI-2.2*
+[**2166-12-1**] 03:55PM   LD(LDH)-1513* CK(CPK)-451* AMYLASE-43 DIR
+BILI-1.6*
+[**2166-12-1**] 03:55PM   LIPASE-24
+[**2166-12-1**] 03:55PM   ALBUMIN-3.3* URIC ACID-13.4*
 
-Pathology:
-1.  Substance in pericardium (A):
-Fibrin, blood and inflammatory cells.
-2.  Pericardium:
-Pericardial tissue with fibrinous exudate, fibrosis, hemorrhage
-with hemosiderin-laden macrophages and acute and chronic
-inflammation with granulation tissue.
-=================================
-BREAST ULTRASOUND:
-FINDINGS: Limited son[**Name (NI) 493**] images were obtained of the left
-breast in the region of the patient's pain, which demonstrate no
-drainable fluid collection or mass.
+U/A, urine lytes
+[**2166-12-1**] 05:50PM URINE  COLOR-Amber APPEAR-Hazy SP [**Last Name (un) 155**]-1.014
+[**2166-12-1**] 05:50PM URINE  BLOOD-SM NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-SM
+[**2166-12-1**] 05:50PM URINE  RBC-[**2-7**]* WBC-[**5-15**]* BACTERIA-MANY
+YEAST-NONE EPI-[**5-15**]
+[**2166-12-1**] 05:50PM URINE  EOS-NEGATIVE
+[**2166-12-1**] 05:50PM URINE  HOURS-RANDOM UREA N-617 CREAT-146
+SODIUM-17 POTASSIUM-38
+[**2166-12-1**] 05:50PM URINE  OSMOLAL-384
 
-IMPRESSION:  Limited study demonstrates no fluid collection to
-suggest
-abscess.  If there is continued clinical concern for a palpable
-abnormality, followup with mammography and/or ultrasound is
-recommended in a dedicated breast imaging clinic.
-=================================
+Hepatitis Serologies
+[**2166-12-1**] 03:55PM   HBsAg-NEGATIVE HBs Ab-NEGATIVE HBc
+Ab-NEGATIVE
+[**2166-12-1**] 03:55PM   HCV Ab-NEGATIVE
+[**2166-12-3**]: [**Doctor First Name **] negative, Anti-smooth Muscle Ab negative
+
+Other
+[**2166-12-1**] 03:55PM   ACETMNPHN-NEG
+[**2166-12-1**] 03:55PM   ACETONE-NEG
+[**2166-12-1**] 03:55PM   TSH-1.1
+C3 89 (90-180), C4 26 (10-40)
+HIV negative
+Lipase 85
+GGT 473
+EBV IgM neg, IgG +, PCR- pending
+HSV 1&2- DAT negative, cultures pending
+VZV cultures negative
+CMV IgG, IgM negative
+monospot negative
+
+Iron Studies
+TIBC 212
+Iron 58
+Transferrin 163
+
+EKG
+sinus at 104, slightly peaked T waves
+
+Abd U/S
+IMPRESSION: Normal liver vasculature. No ascites. No
+hydronephrosis. No biliary dilatation.
+
+CXR
+IMPRESSION: No CHF or pneumonia.
+
+CXR
+IMPRESSION:
+No central venous catheter identified. No acute cardiopulmonary
+disease.
+
+Culture data ([**12-2**])
+BCx negative
+UCx negative
+DFA influenxa negative, culture negative
+
+Liver Bx [**12-8**]: Preliminary report shows acute and chronic
+inflammation, plasma cells, eos and neutrophilic infiltrate. No
+viral inclusions, no granulomas, no biliary disease. Most c/w
+drug-mediated process
+
 
 Brief Hospital Course:
-64 year-old female with PMH of diabetes mellitus,
-hyperlipidemia, and hypothyroidism presenting with chest pain
-and enlargement of pericardial effusion.
+34 y/o F with allergic reaction (pruritis and angioedema), acute
+renal failure, and acute hepatitis likely secondary to
+Allopurinol. A brief [**Hospital 11822**] hospital course is outlined
+below.
 
-Active diagnoses:
-#Pericardial Effusion: Pt presented with pericardial effusion
-larger than past admission [**2129-5-1**].  Pericardiocentesis
-unsuccessful due to significant cell debris so pt taken for
-pericardial window [**5-30**] with pericardial biopsy and removal of
-1500cc of gelatinous fluid from the pericardial space.  Pt
-tolerated procedure well and remained hemodynamically stable in
-the CVICU.  Pt extubated on POD1, chest tube removed POD2 and
-transferred to the floor.
+1. Acute Drug-Induced Hepatitis- The patient presented to clinic
+on [**12-1**] with intense pruritis and dyspnea. This progressed to
+facial and lip swelling and increased difficulty breathing upon
+arrival to the ED. She was initiated on benadryl, steroids and
+H2 blockers and admitted to the MICU for overnight monitoring.
+She remained respiratory stable and hemodynamically stable in
+the MICU and did not require intubation or pressor support. By
+labs, she was noted to have acute hepatitis with AST=1206
+ALT=1293 Tbili=584 and Alk/Phos=2.2. In addition, she was in
+acute renal failure with Cr =3.1. Her baseline creatinine was
+1.2-1.3. She was hydrated overnight with good reversal of her
+renal function to 1.8 the following morning. Liver ultrasound
+was performed and demonstrated no mass or ductal disease. Given
+her clinical stability she was transferred to the general
+medicine service on hospital day #2.
 
-No tamponade physiology during current or past admission.
-Etiology of effusion was unclear.  Differential included
-post-viral, infectious (including TB in setting of recent travel
-to [**Country 3400**] [**12/2128**], as well as parasitic infections), autoimmune,
-malignancy, hypothyroidism.  Pericardial and pleural fluid
-cytology negative.  Allergy consult was obtained did not feel
-that her history of urticaria would be contributing to such a
-presentation.  Rheumatology consulted but no obvious systemic
-rheumatologic condition.  Screening labs including [**Doctor First Name **], RF,
-anti-ds-DNA, TSH, complement levels WNL.  Pathology of
-pericardium and gelatinous pericardial fluid rather nonspecific
-showing fibrinous exudate, fibrosis, and acute and chronic
-inflammation.
-Pt was sent to the CCU for aspirin desensitization. She
-tolerated it well without any complications. She was sent home
-on ibuprofen 800mg TID and asa 81 mg daily.
+On the medicine service, IVF hydration continued. Ace-I, lasix,
+statin, NSAIDs and allopurinol all held. Allopurinol had been
+discontinued since [**11-21**] as documented in previous notes. In
+addition, zestril and lasix had been held since [**11-27**] as
+documented in OMR notes. Her LFTs trended down as she was off
+all these medications.
+By [**12-6**], hospital day#6, AST=753 and ALT=636 with
+conservative management. Of note, she was seen and evaluated by
+the hepatology servie from the beginning of her admission. She
+was started on ursodiol given her hyperbilirubinemia and intense
+itching. However neither of these improved much with medication.
+Itching persisted despite symptomatic management with
+anti-histamines, sarna lotion, H2-blockers and eucerin cream.
+Beginning [**12-7**] her LFT's again began to climb. The only
+new medicine she had been started on was fexofenadine and
+levofloxacin (3 day treatment for UTI), both of which were
+discontinued. Liver serologies had been sent and were all
+negative. Hep A,B,C negative. [**Doctor First Name **] and Anti-smooth muscle
+antibody negative. Monospot negative. CMV negative. HSV 1 and 2
+negative.
 
-# L breast tenderness and redness: Pt developed L breast
-tenderness and redness at the inferior aspect of the left breast
-around the inframammary incision.  The surgical team evaluated
-the pt and believed the symptoms were likely due to manipulation
-during surgery.  The redness improved.
+Given her climbing LFTs (AST had now trended back up >1000, with
+total bili=3.1) she was scheduled for liver biopsy on [**2166-12-8**].
+Liver biopsy was performed and demonstrated acute and chronic
+inflammation, plasma cells, eoinophils and neutrophilic
+infiltrate. No viral inclusions, no granulomas, no biliary
+disease. The process was thought to be most consistent with a
+drug mediated reaction. Although allopurinol toxicity generally
+causes granulomatous hepatitis and there were no granulomas
+present, allopurinol was still thought to be the most likely
+culprit medication. She was initiated on steroids with
+prednisone 40mg PO Qday on [**12-10**]. Following initiation of her
+steroid regimen, all indices of her LFT's began to decline. By
+[**12-15**], the day of discharge, AST=164 ALT=320 and Tbili=1.6. She
+also noticed improvement in her pruritis and much improved
+reduction of her facial and lip swelling. She was discharged
+home with a steroid taper and follow-up scheduled with her PCP
+[**Last Name (NamePattern4) **]. [**Last Name (STitle) **] on [**1-1**] and Hepatology on [**12-25**].
 
-# Sinus tachycardia: Pt runs in 100s per records, which
-continued during hospital course.
+2. Angioedema/Pruritis: Allergic reaction thought to be
+secondary to allopurinol. Other potential precipitating
+medications included zestril, NSAIDS (naproxyn) and lipitor. She
+was seen and evaluated by the Allergy service during her
+hospital stay. It was recommended that she never recieve
+allopurinol again. In addition, NSAIDS,zestril and lipitor
+should be avoided until her labs normalize and she remains
+clinically stable.
 
-Chronic diagnoses:
-#HLD: continue Crestor
-#DM: ISS transitioned to PO metformin.  Pt stable on regimen.
-#Hypothyroidism: continue levothyroxine 150mcg. TSH WNL.
+3. Acute on CRI: Her baseline Cr is 1.2-1.3 based on OMR notes.
+On presentation, her Creatinine was elevated at 3.1. This
+improved quickly with hydration. Cr fell to 1.8 by hospital day
+number 2, and eventually her creatinine came down to 0.9. On the
+day of discharge this is where she is at.
 
-Transitional issues:
--continue workup for pericardiac effusion
--patient has been desensitized to NSAIDS including aspirin
--patient has follow up with allergy, rheumatology and cardiology
-with cardiac MR scheduled prior to cards follow up.
--if mass in left breast does not resolve will need proper
-diagnostic mamography.
+4. UTI- Urinalysis on [**12-4**] showed moderate leukocytes and >50
+bacteria, so she was started on a 3 day course of levofloxacin
+which was completed on [**2166-12-7**].
+
+5. ID- Urine and blood cultures from admission were negative as
+were subsequent culture specimens. No infectious etiology to her
+hepatitis was identified, as outlined above (also see results
+section).
+
+6. Diabetes I- The patient has long-standing type I diabetes
+since the age of 13. She has documented retinopathy, neuropathy
+and nephropathy. Her blood sugars remained fairly well
+controlled until starting steroids. Her blood sugars were noted
+to be >400 on several occasions after starting prednisone,
+despite increasing her NPH regimen. [**Last Name (un) **] was consulted and
+evaluated the patient. She had previously been followed by Dr.
+[**Last Name (STitle) 3617**] at [**Last Name (un) **], most recently seen in [**2164**]. Her NPH was
+eventually titrated up to 80mg qam and 80mg qhs. In addition,
+she was switched from regular to Humalog sliding scale and her
+scale was titrated up as well. She will be discharged on this
+regimen with close follow-up with [**Last Name (un) **]. Her first follow-up
+appointment will be on [**12-17**] with [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1557**]. The patient does
+not qualify for services, but she feels comfortable using her
+sliding scale and she reports she'll be staying with her sister
+who is a nurse.
+
+7. Asthma- continued on albuterol inhalers prn
+8. Anemia- Given 1U PRBC on [**12-7**] in setting of her liver biopsy
+when she had a hct of 27 (hct=28 on admission). Her hematocrit
+increased appropriately following transfusion and has remained
+stable at 33.
+
 
 Medications on Admission:
-1. Colchicine 0.6 mg PO BID
-2. Crestor 10 mg PO DAILY
-3. Synthroid 150 mcg PO DAILY
-4. ZYRtec *NF* 10 mg Oral prn seasonal allergies
-5. MetFORMIN (Glucophage) 500 mg PO BID
+Lipitor 80 mg daily
+NPH 32 units qam, qhs; 10 novalog q breakfast, dinner
+Lisinopril 20mg daily
+Lasix 80mg daily
+Flovent qAM
+Albuterol prn
+Allopurinol- started 1 month ago and stopped 1 week ago
+Naproxyn- used sporadically for joint arthritis; at most 1 per
+day;
+Tylenol- up to two per day for joint pains
+Remote h/o using lipitor
+med hx: started allopurinol in the middle of [**Month (only) 321**] and
+stopped on [**11-21**] because of increased creatinine.
 
 
 Discharge Medications:
-1. Colchicine 0.6 mg PO BID
-2. Crestor 10 mg PO DAILY
-3. MetFORMIN (Glucophage) 500 mg PO BID
-4. Synthroid 150 mcg PO DAILY
-5. ZYRtec *NF* 10 mg Oral prn seasonal allergies
-6. cane *NF* Large Base Quad Cane  Miscellaneous 1
-RX *cane   Please use for ambulation 1 Large based quad cane
-Disp #*1 Unit Refills:*0
-RX *cane   Please use for ambulation 1 Large-based quad cane
-Disp #*1 Unit Refills:*0
-7. Aspirin 81 mg PO DAILY
-RX *Adult Low Dose Aspirin 81 mg 1 Tablet(s) by mouth daily Disp
-#*30 Tablet Refills:*5
-8. Docusate Sodium 100 mg PO BID
-RX *docusate sodium 100 mg 1 Capsule(s) by mouth twice a day
-Disp #*30 Tablet Refills:*0
-9. Ibuprofen 800 mg PO Q8H Duration: 2 Weeks
-RX *ibuprofen 800 mg 1 Tablet(s) by mouth three times a day Disp
-#*42 Tablet Refills:*0
-10. Oxycodone-Acetaminophen (5mg-325mg) 1 TAB PO Q6H:PRN pain
-RX *Percocet 5 mg-325 mg 1 Tablet(s) by mouth three times a day
-Disp #*33 Tablet Refills:*0
-11. Omeprazole 40 mg PO DAILY
-RX *omeprazole 40 mg 1 Capsule(s) by mouth daily Disp #*14
-Tablet Refills:*0
-12. Outpatient Lab Work
-please have Liver function tests with albumin and bilirubin as
-well as well as creatinine and potassium checked in 1 week.
-Results faxed to Dr. [**First Name (STitle) **] at ([**Telephone/Fax (1) 5013**]
+1. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q6H (every 6 hours) as needed.
+2. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+[**Hospital1 **] (2 times a day) as needed.
+Disp:*1 tube* Refills:*3*
+3. Lansoprazole 30 mg Capsule, Delayed Release(E.C.) Sig: One
+(1) Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+4. Diphenhydramine HCl 25 mg Capsule Sig: Two (2) Capsule PO Q6H
+(every 6 hours) as needed for itching.
+Disp:*30 Capsule(s)* Refills:*3*
+5. White Petrolatum-Mineral Oil     Cream Sig: One (1) Appl
+Topical  QID (4 times a day).
+6. Ursodiol 300 mg Capsule Sig: One (1) Capsule PO BID (2 times
+a day).
+7. Prednisone 10 mg Tablets, Dose Pack Sig: per taper below
+Tablets, Dose Pack PO once a day: 30mg(3 tabs)x 4days
+20mg(2 tabs)x 5days
+15mg(1.5 tabs)x5days
+10mg(1 tab) x 5days
+5mg(0.5tab)x 5days,
+then Stop.
+Disp:*40 Tablets, Dose Pack(s)* Refills:*0*
+8. Insulin NPH Human Recomb 100 unit/mL Syringe Sig: Eighty (80)
+Units Subcutaneous qam,qhs.
+Disp:*30 Units* Refills:*2*
+9. Insulin Lispro (Human) 100 unit/mL Solution Sig: see sliding
+scale  Subcutaneous qac,qhs.
+Disp:*30 syringes* Refills:*2*
+10. Syringe     Syringe Sig: One (1)  Miscell.  once a day.
+Disp:*60 syringes* Refills:*2*
 
 
 Discharge Disposition:
-Home With Service
-
-Facility:
-All Care VNA of Greater [**Location (un) **]
+Home
 
 Discharge Diagnosis:
-Primary Diagnosis:
-Pericardial Effusion
-
-Secondary Diagnoses:
-Hyperlipidemia
-Hypothyroidism
-Diabetes Mellitus Type II (Non-Insulin Dependent)
+Primary Diagnosis
+1. Acute drug-induced hepatitis
+2. Angioedema
+3. Pruritis
+4. DMI
+5. HTN
+Secondary Diagnosis
+1. hyperlipidemia
+2. Asthma
+3. Gout
 
 
 Discharge Condition:
-Clear and cohent.
-Alert and interactive.
-Ambulatory - requires minimus assistance.
-
+good.
 
 Discharge Instructions:
-Dear Ms. [**Known lastname 112022**],
+Please contact PCP for any fevers, chills, shortness of breath,
+abdominal pain, increased itching, or confusion.
 
-It was a pleasure taking care of you at [**Hospital1 **].
-You came into the hospital because of chest pain due to the
-fluid around your heart (called a pericardial effusion). You had
-to have surgery to remove some of this fluid.  The cause of this
-fluid is still not clear, but tests have been sent off to try to
-find the cause.  Your heart doctor will follow-up on these
-results and share them with you.  You were seen by our
-allergists and our rheumatologists to help diagnose this
-mystery.  It was felt that you would benefit from several weeks
-of ibuprofen treatment and given your history of allergy were
-sent to the intensive care unit for a desensitization procedure.
-
-
-Please have your blood work checked in 1 week, a prescription
-has been provided for you.
-
-Several medications have been changed please refer to your
-medication list for the details of your medications.
-
-Please make sure to keep your follow up appointments listed
-below.  Also you will need to have a follow up MRI of your
-heart, please call [**Telephone/Fax (1) 9559**] 2 weeks prior to your
-appointment with Dr. [**Last Name (STitle) 112025**] on [**2129-6-22**] to ensure it has been
-scheduled.
-
-Please shower daily including washing incisions gently with mild
-soap, no baths or swimming. Look at your incisions daily. Please
-NO lotions, cream, powder, or ointments to incisions.
-Urticaria is a skin irritation characterized by reddened and slightly swollen lesions, such as welts, that appear on the skin and are very itchy.
-It is usually characterized by red patches and papules that cause itching tingling.
-
+Please check your blood sugars 4 times/day and take your insulin
+as scheduled based on the sliding scale. If you have questions
+with your regimen please contact your PCP or [**Name (NI) **]. Follow-up
+with [**Last Name (un) **] on [**12-17**] as scheduled below.
 
 Followup Instructions:
-Name: [**Last Name (un) **]-[**Doctor Last Name **],MAYSABEL
-Location: [**Hospital3 **]HEALTHCARE GROUP
-Address: [**Location (un) 80096**], [**Apartment Address(1) 19251**], [**Location (un) **],[**Numeric Identifier 10768**]
-Phone: [**Telephone/Fax (1) 82482**]
-When: Wednesday, [**2129-6-15**]:30 PM
-*It is advised that you are also followed for wound care. Please
-discuss this with your PCP.
+Please follow-up at [**Hospital **] Clinic Wed [**12-17**] at 9:30am with
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1557**] NP.
 
-Cardiac Surgery: Dr. [**First Name (STitle) **] Tuesday, [**2129-6-21**], 1:00pm
-[**Hospital **] Medical Office Building
-[**Hospital Unit Name 112026**]
+Provider: [**Name10 (NameIs) 1947**],[**Name11 (NameIs) 722**] [**Hospital 1947**] CLINIC Where: CC-2 [**Hospital 1947**]
+UNIT Phone:[**Telephone/Fax (1) 3153**] Date/Time:[**2166-12-23**] 2:30
 
-Department: ECHO LAB
-When: WEDNESDAY [**2129-6-22**] at 1 PM
-With: ECHOCARDIOGRAM [**Telephone/Fax (1) 62**]
-Building: GZ [**Hospital Ward Name **] BUILDING (FELBEERG/[**Hospital Ward Name **] COMPLEX) [**Location (un) 1951**]
-Campus: EAST    Best Parking: Main Garage
+Provider: [**Name10 (NameIs) **] [**Name8 (MD) **], M.D. Where: [**Hospital6 29**] [**Hospital **] Phone:[**Telephone/Fax (1) 250**] Date/Time:[**2167-1-1**] 2:20
 
-Department: CARDIAC SERVICES
-When: WEDNESDAY [**2129-6-22**] at 3:00 PM
-With: [**Name6 (MD) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 62**]
-Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
-Campus: EAST Best Parking: [**Hospital Ward Name 23**] Garage
-
-Department: DIV OF ALLERGY AND INFLAM
-When: WEDNESDAY [**2129-6-22**] at 11:15 AM
-With: [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 9316**]
-Building: One [**Location (un) **] Place ([**Location (un) **], MA) [**Location (un) 895**]
-Campus: OFF CAMPUS    Best Parking: Parking on Site
-
-Department: RHEUMATOLOGY
-When: THURSDAY [**2129-6-16**] at 3:30 PM
-With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 34216**], MD [**Telephone/Fax (1) 2226**]
-Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) 861**]
-Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 6719**], M.D. Where: [**Hospital6 29**]
+[**Hospital3 1935**] CENTER Phone:[**Telephone/Fax (1) 253**] Date/Time:[**2167-2-17**] 4:45
 
 
+                             [**First Name11 (Name Pattern1) 734**] [**Last Name (NamePattern1) 735**] MD, [**MD Number(3) 799**]
 

@@ -8,21 +8,20 @@ import com.text.mining.allergyapi.enums.WordType;
 import com.text.mining.allergyapi.util.LogUtils;
 import com.text.mining.allergyapi.util.NamedEntityUtils;
 import lombok.extern.log4j.Log4j;
-import org.apache.commons.lang.time.StopWatch;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
 
 @Log4j
 @Service
 public class NamedEntityService {
 
     private final Producer producer;
+    private final ResultService resultService;
 
-    public NamedEntityService(Producer producer) {
+    public NamedEntityService(Producer producer, ResultService resultService) {
         this.producer = producer;
+        this.resultService = resultService;
     }
 
     public void process(MessageQueueDto messageQueueDto) {
@@ -30,8 +29,15 @@ public class NamedEntityService {
             String inputText = preprocessing(messageQueueDto.getDataDto().getText());
             String[] tokens = NamedEntityUtils.tokenizeInputText(inputText);
 
-            ResultNameFinderDto result = NamedEntityUtils.findNames(tokens);
+            ResultNameFinderDto result = NamedEntityUtils.findNames(tokens, "urticaria");
             prepareData(messageQueueDto, result, tokens);
+
+            result = NamedEntityUtils.findNames(tokens, "rhinitis");
+            prepareData(messageQueueDto, result, tokens);
+
+            //Salvar resultados para análise
+            //resultService.saveResult(messageQueueDto);
+
             sendMessage(messageQueueDto);
 
         } catch (IOException e) {
@@ -40,7 +46,6 @@ public class NamedEntityService {
     }
 
     private void prepareData(MessageQueueDto messageQueueDto, ResultNameFinderDto result, String[] tokens) {
-        List<WordDto> words = new ArrayList<>();
         for (int i = 0; i < result.getSpans().length; i++) {
             log.info("Span: " + result.getSpans()[i].toString());
             log.info("Covered text is: " + tokens[result.getSpans()[i].getStart()]);
@@ -59,14 +64,13 @@ public class NamedEntityService {
                     wordDto.setType(WordType.SYMPTOM);
                     break;
             }
-            words.add(wordDto);
+            messageQueueDto.getWords().add(wordDto);
         }
-        messageQueueDto.setWords(words);
     }
 
     private String preprocessing(String inputText) {
         try {
-            //inputText = NamedEntityUtils.CleanStopWords(inputText);
+            inputText = NamedEntityUtils.CleanStopWords(inputText);
             inputText = NamedEntityUtils.cleanNumbersAndSpecialCharacters(inputText);
             return inputText;
         } catch (Exception e) {

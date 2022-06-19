@@ -41,7 +41,7 @@ public class ConverterService {
             }
 
             String json = EHRUtils.templateToFlatJson(buildInternationalPatientSummaryComposition());
-            System.out.println(json);
+            log.info(json);
 
             webhookService.sendDataToMedicalInstitution(messageQueueDto.getDataDto().getInstitution(), json);
         } catch (Exception e) {

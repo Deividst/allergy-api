@@ -13,6 +13,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;
+import java.util.ArrayList;
 
 @Log4j
 @Service
@@ -34,6 +35,7 @@ public class FileProcessorService {
                         .text(inputText)
                         .institution(medicalInstitutionService.findInstitutionByUserName(authentication.getName()))
                         .build())
+                .words(new ArrayList<>())
                 .build());
         log.info("FileProcessorService.process() | Execution Time: " + LogUtils.logExecutionTime());
     }

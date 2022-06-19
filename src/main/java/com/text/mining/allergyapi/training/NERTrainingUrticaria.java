@@ -11,13 +11,13 @@ import java.nio.charset.StandardCharsets;
 import java.util.Collections;
 
 
-public class NERTraining {
+public class NERTrainingUrticaria {
 
     public static void main(String[] args) {
 
         InputStreamFactory in = null;
         try {
-            in = new MarkableFileInputStreamFactory(new File("src/main/resources/allergy_dictionary.txt"));
+            in = new MarkableFileInputStreamFactory(new File("src/main/resources/allergy_urticaria_dictionary.txt"));
         } catch (FileNotFoundException e2) {
             e2.printStackTrace();
         }
@@ -46,7 +46,7 @@ public class NERTraining {
 
         // saving the model to "ner-custom-allergy-model" file
         try {
-            File output = new File("src/main/resources/ner-custom-allergy-model.bin");
+            File output = new File("src/main/resources/ner-custom-allergy-urticaria-model.bin");
             FileOutputStream outputStream = new FileOutputStream(output);
             nameFinderModel.serialize(outputStream);
         } catch (IOException e) {

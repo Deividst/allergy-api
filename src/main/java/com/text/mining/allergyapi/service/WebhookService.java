@@ -14,7 +14,7 @@ import org.springframework.web.client.RestTemplate;
 @Service
 public class WebhookService {
 
-    public void sendDataToMedicalInstitution(MedicalInstitution institution, String json) throws JsonProcessingException {
+    public void sendDataToMedicalInstitution(MedicalInstitution institution, String json) {
 
         HttpHeaders headers = new HttpHeaders();
         headers.setContentType(MediaType.APPLICATION_JSON);
