@@ -14,7 +14,7 @@ public class StemmerText {
 
     public static void main(String[] args) throws IOException {
 
-        Path path = Paths.get("src/main/resources/notes.txt");
+        Path path = Paths.get("<file_path>");
         List<String> lines = Files.readAllLines(path);
         String text = String.join("\n", lines);
 
